@@ -1,0 +1,16 @@
+C:\Users\artur\OneDrive\Área de Trabalho\projetos .NET\Minha API\Minha API\obj\Debug\net9.0\Minha API.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Área de Trabalho\projetos .NET\Minha API\Minha API\obj\Debug\net9.0\Minha API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Área de Trabalho\projetos .NET\Minha API\Minha API\obj\Debug\net9.0\Minha API.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Área de Trabalho\projetos .NET\Minha API\Minha API\obj\Debug\net9.0\Minha API.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Área de Trabalho\projetos .NET\Minha API\Minha API\obj\Debug\net9.0\Minha API.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Área de Trabalho\projetos .NET\Minha API\Minha API\obj\Debug\net9.0\Minha API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\artur\OneDrive\Área de Trabalho\projetos .NET\Minha API\Minha API\obj\Debug\net9.0\Minha API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\artur\OneDrive\Área de Trabalho\projetos .NET\Minha API\Minha API\obj\Debug\net9.0\Minha API.sourcelink.json
+C:\Users\artur\projetos .NET\Minha API\Minha API\obj\Debug\net9.0\Minha API.csproj.AssemblyReference.cache
+C:\Users\artur\projetos .NET\Minha API\Minha API\obj\Debug\net9.0\Minha API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\projetos .NET\Minha API\Minha API\obj\Debug\net9.0\Minha API.AssemblyInfoInputs.cache
+C:\Users\artur\projetos .NET\Minha API\Minha API\obj\Debug\net9.0\Minha API.AssemblyInfo.cs
+C:\Users\artur\projetos .NET\Minha API\Minha API\obj\Debug\net9.0\Minha API.csproj.CoreCompileInputs.cache
+C:\Users\artur\projetos .NET\Minha API\Minha API\obj\Debug\net9.0\Minha API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\artur\projetos .NET\Minha API\Minha API\obj\Debug\net9.0\Minha API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\artur\projetos .NET\Minha API\Minha API\obj\Debug\net9.0\Minha API.sourcelink.json
