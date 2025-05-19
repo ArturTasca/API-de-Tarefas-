@@ -43,3 +43,5 @@ wwwroot/
 
 ## Outros arquivos que podem causar conflito
 .env
+/bin/
+/obj/
