@@ -1,47 +1,62 @@
-## Ignore arquivos de build
-bin/
-obj/
-out/
+## Build results
+/bin/
+/obj/
 
-## Arquivos de usuário do Visual Studio
-.vscode/
+## User-specific files
 *.user
 *.suo
 *.userosscache
 *.sln.docstates
 
-## Arquivos de log e configurações temporárias
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## Logs
 *.log
-*.tlog
-*.cache
-*.tmp
-*.bak
 
-## Configurações locais do sistema
-*.DS_Store
-*.vs/
+## VS Code
+.vscode/
 
-## Configuração de pacotes NuGet
-*.nupkg
-*.snupkg
-*.nuspec
-.nuget/
-
-## Arquivos do Rider
+## Rider
 .idea/
 
-## Diretórios gerados
-Generated_Code/
+## DotCover
+*.dotCover
 
-## Build do dotnet
+## NuGet
+*.nupkg
+*.snupkg
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+## Visual Studio
+.vs/
+*.dbmdl
+*.bak
+*.sql
+
+## Others
+*.DS_Store
+Thumbs.db
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Test Results
+TestResults/
+*.trx
+
+# .NET Core
 project.lock.json
 project.fragment.lock.json
+artifacts/
 
-## Arquivos de Publish
-publish/
-wwwroot/
+# Auto-generated files
+Generated_Code/
 
-## Outros arquivos que podem causar conflito
-.env
-/bin/
-/obj/
+# dotenv environment files
+*.env
+*.env.*
